@@ -1,6 +1,6 @@
 # MSLab
 
-## tl;dr
+## tldr.
 
 To start using MSLab just download the latest version of the scripts from the [Releases](https://github.com/microsoft/MSLab/releases) section of this repository or follow [Dell GEOS hands-on-labs](https://www.geos.to/azslabs).
 
